@@ -4,6 +4,7 @@ Quiz:
 
 1. How many MMS monitoring agents should you run for a production system? 
   - More then 1 for redundancy. 
+  //current
 
 2. What is typically the cause of a low ulimit warning in MMS monitoring? 
   - The resources available to mongod may be too limited.
